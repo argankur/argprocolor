@@ -13,10 +13,16 @@
     "contributes": {
         "themes": [
             {
-                "label": "argprocolor",
+                "label": "argprocolor-1",
                 "uiTheme": "vs-dark",
-                "path": "./themes/argprocolor-color-theme.json"
+                "path": "./themes/argprocolor-1-color-theme.json"
+            },
+            {
+                "label": "argprocolor-2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/argprocolor-2-color-theme.json"
             }
+
         ]
     }
 }
