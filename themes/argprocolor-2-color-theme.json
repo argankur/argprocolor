@@ -700,7 +700,7 @@
 				"keyword.control.def.ruby"
 			],
 			"settings": {
-				"foreground": "#c77591e5"
+				"foreground": "#c77590f6"
 			}
 		},
 		{
@@ -1383,7 +1383,9 @@
 				"entity.name.method"
 			],
 			"settings": {
-				"foreground": "#AD6800",
+				// "foreground": "#AD6800",
+				"foreground": "#d67149dc",
+				// "foreground": "#e6b450d2",
 				"fontStyle": "bold"
 			}
 		},
