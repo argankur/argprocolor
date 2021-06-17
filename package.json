@@ -1,15 +1,28 @@
 {
     "name": "argprocolor",
-    "publisher": "argankur",
+    "publisher": "AnkurGoyal",
     "displayName": "argprocolor",
     "description": "this is a customised color theme by Ankur",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "color theme",
+        "dark",
+        "dark theme",
+        "argpro",
+        "argprocolor",
+        "AnkurGoyal"
+    ],
+    "repository": {
+        "type": "git",
+        "url" : "https://github.com/argankur/argprocolor"
+    },
     "contributes": {
         "themes": [
             {
