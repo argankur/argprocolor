@@ -34,6 +34,11 @@
                 "label": "argprocolor-2",
                 "uiTheme": "vs-dark",
                 "path": "./themes/argprocolor-2-color-theme.json"
+            },
+            {
+                "label": "argprocolor-3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/argprocolor-3-color-theme.json"
             }
         ]
     }

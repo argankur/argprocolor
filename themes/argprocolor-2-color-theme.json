@@ -1374,12 +1374,6 @@
 		},
 		{
 			"scope": [
-				"source.c"
-			],
-			"settings": {}
-		},
-		{
-			"scope": [
 				"entity.name.class",
 				"entity.name.function",
 				"entity.name.method"
