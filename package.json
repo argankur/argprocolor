@@ -26,17 +26,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "argprocolor-1",
+                "label": "argprocolor-midnight-loki",
                 "uiTheme": "vs-dark",
                 "path": "./themes/argprocolor-1-color-theme.json"
             },
             {
-                "label": "argprocolor-2",
+                "label": "argprocolor-midnight-dreams",
                 "uiTheme": "vs-dark",
                 "path": "./themes/argprocolor-2-color-theme.json"
             },
             {
-                "label": "argprocolor-3",
+                "label": "argprocolor-midnight-wanda",
                 "uiTheme": "vs-dark",
                 "path": "./themes/argprocolor-3-color-theme.json"
             }
