@@ -3,7 +3,7 @@
     "publisher": "AnkurGoyal",
     "displayName": "argprocolor",
     "description": "this is a customised color theme by Ankur",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.56.0"
     },
