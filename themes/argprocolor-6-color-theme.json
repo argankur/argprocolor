@@ -96,8 +96,7 @@
 		"settings.focusedRowBackground": "#23272e",
 		"settings.headerForeground": "#ffffff",
 		"sideBar.background": "#141416",
-		// "sideBar.background": "#1e2227",
-		"sideBar.foreground": "#abb2bf",
+		"sideBar.foreground": "#8a8d96",
 		"sideBarSectionHeader.background": "#23272e",
 		"sideBarSectionHeader.foreground": "#abb2bf",
 		"statusBar.background": "#330e25",
@@ -147,18 +146,10 @@
 		"tree.indentGuidesStroke": "#ffffff1d",
 		"walkThrough.embeddedEditorBackground": "#2e3440",
 		"searchEditor.findMatchBorder": "#dddddd",
-		"editor.findMatchHighlightBorder": "#ff00005b",
+		"editor.findMatchHighlightBorder": "#701f51",
 		"sideBar.border": "#701f51",
 		"input.border": "#ffffff42",
 		"inputOption.activeBorder": "#ffffff42",
-
-		"list.deemphasizedForeground": "#8c8c8c",
-		"list.dropBackground": "#ffbb00",
-		"list.errorForeground": "#f88070",
-		"list.filterMatchBackground": "#06f86b",
-		"list.focusHighlightForeground": "#ecebeb",
-		"list.focusOutline": "#3e4452",
-		"list.invalidItemForeground": "#b89500",
 
 		//"activityBar.activeBorder": "#e7e7e7",
 		//"activityBar.dropBorder": "#e7e7e7",
@@ -1180,7 +1171,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#ABB2BF"
+				"foreground": "#009b15"
 			}
 		},
 		{
@@ -1258,8 +1249,41 @@
 			],
 			"settings": {
 				"foreground": "#61AFEF"
+
 			}
 		},
+		{
+			"scope": [
+				"entity.name.function",
+				"entity.name.function.member.cpp"
+			],
+			"settings": {
+				"foreground": "#7AA2F7",
+				// "foreground": "#009b15",
+				// "foreground": "#00a7bd"
+				
+			}
+		},
+		{
+			"scope": [
+				"entity.name.function.preprocessor.cpp"
+			],
+			"settings": {
+				"foreground": "#b80000"
+
+			}
+		},
+		{
+			"scope": [
+				"entity.name.namespace.cpp",
+				"entity.name.scope-resolution.function.call.cpp"
+			],
+			"settings": {
+				"foreground": "#ABB2BF"
+
+			}
+		},
+		
 		{
 			"scope": "entity.name.type.namespace",
 			"settings": {
@@ -1297,7 +1321,7 @@
 		{
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#c7a566"
 			}
 		},
 		{
@@ -1399,7 +1423,7 @@
 		{
 			"scope": "constant",
 			"settings": {
-				"foreground": "#D19A66"
+				"foreground": "#a80068"
 			}
 		},
 		{
@@ -2419,7 +2443,7 @@
 				"variable.other.object"
 			],
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#C7A566"
 			}
 		},
 		{
