@@ -26,12 +26,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "argprocolor-new-theme",
+                "label": "argprocolor-midnight-glow",
                 "uiTheme": "vs-dark",
                 "path": "./themes/argprocolor-7-color-theme.json"
             },
             {
-                "label": "argprocolor-midnight-Harkness-variant",
+                "label": "argprocolor-midnight-sorcerer",
                 "uiTheme": "vs-dark",
                 "path": "./themes/argprocolor-5-color-theme.json"
             },
