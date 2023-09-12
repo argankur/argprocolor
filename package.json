@@ -26,6 +26,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "argprocolor-new-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/argprocolor-7-color-theme.json"
+            },
+            {
                 "label": "argprocolor-midnight-Harkness-variant",
                 "uiTheme": "vs-dark",
                 "path": "./themes/argprocolor-5-color-theme.json"
