@@ -202,7 +202,6 @@
 		"breadcrumb.background": "#1a2535be",
 		"breadcrumb.focusForeground": "#d5dbe7",
 		"breadcrumb.foreground": "#c4cbdacc",
-
 		//"activityBar.activeBorder": "#4d5566cc",
 		//"activityBar.dropBorder": "#4d5566cc",
 		//"banner.background": "#00010a",
@@ -1382,7 +1381,7 @@
 				// "foreground": "#AD6800",
 				"foreground": "#d67149dc",
 				// "foreground": "#e6b450d2",
-				"fontStyle": "bold"
+				//"fontStyle": "bold"
 			}
 		},
 		{
@@ -1391,8 +1390,8 @@
 				"entity.name.function.preprocessor"
 			],
 			"settings": {
-				"foreground": "#C70000B2",
-				"fontStyle": "bold"
+				"foreground": "#c70000eb",
+				//"fontStyle": "bold"
 			}
 		},
 		{
@@ -1401,7 +1400,7 @@
 			],
 			"settings": {
 				"foreground": "#AAAAAA",
-				"fontStyle": "bold"
+				//"fontStyle": "bold"
 			}
 		},
 		{
@@ -1436,7 +1435,7 @@
 			],
 			"settings": {
 				"foreground": "#A09D00",
-				"fontStyle": "bold"
+				//"fontStyle": "bold"
 			}
 		},
 		{
@@ -1464,7 +1463,7 @@
 			],
 			"settings": {
 				"foreground": "#626a73d8",
-				"fontStyle": "bold"
+				//"fontStyle": "bold"
 			}
 		},
 		{
@@ -1492,5 +1491,4 @@
 			}
 		}
 	]
-
 }

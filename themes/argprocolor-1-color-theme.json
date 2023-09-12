@@ -1361,7 +1361,7 @@
 			],
 			"settings": {
 				"foreground": "#AD6800",
-				"fontStyle": "bold"
+				//"fontStyle": "bold"
 			}
 		},
 		{
@@ -1380,7 +1380,7 @@
 			],
 			"settings": {
 				"foreground": "#AAAAAA",
-				"fontStyle": "bold"
+				//"fontStyle": "bold"
 			}
 		},
 		{
@@ -1415,7 +1415,7 @@
 			],
 			"settings": {
 				"foreground": "#A09D00",
-				"fontStyle": "bold"
+				//"fontStyle": "bold"
 			}
 		},
 		{
@@ -1441,7 +1441,7 @@
 			],
 			"settings": {
 				"foreground": "#43787E",
-				"fontStyle": "bold"
+				//"fontStyle": "bold"
 			}
 		},
 		{
