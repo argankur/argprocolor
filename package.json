@@ -31,6 +31,11 @@
                 "path": "./themes/argprocolor-7-color-theme.json"
             },
             {
+                "label": "argprocolor-daylight-colors",
+                "uiTheme": "vs",
+                "path": "./themes/argprocolor-8-color-theme.json"
+            },
+            {
                 "label": "argprocolor-midnight-sorcerer",
                 "uiTheme": "vs-dark",
                 "path": "./themes/argprocolor-5-color-theme.json"
