@@ -972,7 +972,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#5ab7b3",
+				"foreground": "#3d7d7a",
 				"fontStyle": "bold"
 			}
 		},
@@ -1472,7 +1472,7 @@
 		{
 			"scope": "variable.other.property.cpp",
 			"settings": {
-				"foreground": "#5ab7b3",
+				"foreground": "#3d7d7a",
 				"fontStyle": "bold"
 				//"foreground": "#ABB2BF"
 			}
