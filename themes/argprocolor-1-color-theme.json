@@ -1,4 +1,6 @@
+// Theme label: argprocolor-midnight-loki-variant
 {
+	"$schema": "vscode://schemas/color-theme",
 	"name": "argprocolor",
 	"type": "dark",
 	"colors": {

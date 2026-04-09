@@ -1,5 +1,30 @@
-## This is a customised color theme by Ankur Goyal
+# argprocolor
 
+A customized VS Code and Cursor color theme collection by Ankur Goyal.
+
+## Included themes
+
+- argprocolor-midnight-glow
+- argprocolor-daylight-colors
+- argprocolor-midnight-sorcerer
+- argprocolor-midnight-Harkness
+- argprocolor-midnight-loki
+- argprocolor-midnight-loki-variant
+- argprocolor-midnight-dreams
+- argprocolor-midnight-wanda
+
+## Theme descriptions
+
+- **argprocolor-midnight-glow**: Deep teal dark theme with bright aqua accents and a crisp cyber look.
+- **argprocolor-daylight-colors**: Soft light theme with lavender-purple accents and comfortable daytime contrast.
+- **argprocolor-midnight-sorcerer**: Dark charcoal palette with balanced blue, amber, and green syntax tones.
+- **argprocolor-midnight-Harkness**: Near-black dark theme with subtle crimson-violet influence and muted UI contrast.
+- **argprocolor-midnight-loki**: Rich dark teal base with warm copper-magenta highlights and strong visual depth.
+- **argprocolor-midnight-loki-variant**: Loki-style variant with brighter cyan emphasis and slightly punchier UI contrast.
+- **argprocolor-midnight-dreams**: Warm dark palette with amber highlights and cool blue-green readability accents.
+- **argprocolor-midnight-wanda**: Synthwave-inspired dark theme with plum backgrounds and vivid pink-cyan neon accents.
+
+## Theme previews
 
 ### midnight-dreams
 ![midnight-dreams](https://user-images.githubusercontent.com/19278107/122572182-1eb21f00-d06b-11eb-872b-b6e723f60cf6.png)
