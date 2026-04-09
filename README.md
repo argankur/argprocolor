@@ -5,7 +5,10 @@ A customized VS Code and Cursor color theme collection by Ankur Goyal.
 ## Included themes
 
 - argprocolor-midnight-glow
+- argprocolor-midnight-neon-aura
 - argprocolor-daylight-colors
+- argprocolor-daylight-sleek-mono
+- argprocolor-daylight-prism
 - argprocolor-midnight-sorcerer
 - argprocolor-midnight-Harkness
 - argprocolor-midnight-loki
@@ -16,7 +19,10 @@ A customized VS Code and Cursor color theme collection by Ankur Goyal.
 ## Theme descriptions
 
 - **argprocolor-midnight-glow**: Deep teal dark theme with bright aqua accents and a crisp cyber look.
+- **argprocolor-midnight-neon-aura**: A glow-focused evolution of Midnight Glow with clearer token separation and softer long-session contrast.
 - **argprocolor-daylight-colors**: Soft light theme with lavender-purple accents and comfortable daytime contrast.
+- **argprocolor-daylight-sleek-mono**: SlickEdit-inspired near-monochrome light theme with subtle tonal contrast and font-weight based distinction.
+- **argprocolor-daylight-prism**: Premium light theme evolved from Daylight Colors with clearer semantic separation and polished readability.
 - **argprocolor-midnight-sorcerer**: Dark charcoal palette with balanced blue, amber, and green syntax tones.
 - **argprocolor-midnight-Harkness**: Near-black dark theme with subtle crimson-violet influence and muted UI contrast.
 - **argprocolor-midnight-loki**: Rich dark teal base with warm copper-magenta highlights and strong visual depth.

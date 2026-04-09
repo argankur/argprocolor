@@ -31,9 +31,24 @@
                 "path": "./themes/argprocolor-7-color-theme.json"
             },
             {
+                "label": "argprocolor-midnight-neon-aura",
+                "uiTheme": "vs-dark",
+                "path": "./themes/argprocolor-9-color-theme.json"
+            },
+            {
                 "label": "argprocolor-daylight-colors",
                 "uiTheme": "vs",
                 "path": "./themes/argprocolor-8-color-theme.json"
+            },
+            {
+                "label": "argprocolor-daylight-sleek-mono",
+                "uiTheme": "vs",
+                "path": "./themes/argprocolor-10-color-theme.json"
+            },
+            {
+                "label": "argprocolor-daylight-prism",
+                "uiTheme": "vs",
+                "path": "./themes/argprocolor-11-color-theme.json"
             },
             {
                 "label": "argprocolor-midnight-sorcerer",
