@@ -3,7 +3,7 @@
     "publisher": "AnkurGoyal",
     "displayName": "argprocolor",
     "description": "A customized VS Code and Cursor color theme collection by Ankur Goyal.",
-    "version": "3.3.0",
+    "version": "5.0.1",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -82,5 +82,9 @@
             }
         ]
     },
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "@vscode/vsce": "^3.7.1",
+        "ovsx": "^0.10.10"
+    }
 }
