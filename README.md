@@ -41,24 +41,3 @@ A customized VS Code and Cursor color theme collection by Ankur Goyal.
 ### midnight-wanda
 ![midnight-wanda](https://user-images.githubusercontent.com/19278107/122572471-6769d800-d06b-11eb-8e65-2ae7e2b6cab2.png)
 
-## Publish to marketplaces
-
-Cursor marketplace pulls from OpenVSX. To publish to both marketplaces, set these tokens:
-
-- `VSCE_PAT` for VS Code Marketplace
-- `OVSX_PAT` for OpenVSX (Cursor)
-
-Then run:
-
-- `npm run release:patch` (or `release:minor`, `release:major`)
-- or simply run `release.cmd patch all`
-
-Or pass arguments manually:
-
-- `npm run release -- -Bump minor -Target all`
-- `npm run release -- -Bump patch -Target vscode`
-- `npm run release -- -Bump patch -Target cursor`
-
-Token setup helper:
-
-- run `setup-release-tokens.cmd` once to store `VSCE_PAT` and `OVSX_PAT` at User scope

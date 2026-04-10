@@ -3,7 +3,7 @@
     "publisher": "AnkurGoyal",
     "displayName": "argprocolor",
     "description": "A customized VS Code and Cursor color theme collection by Ankur Goyal.",
-    "version": "5.0.1",
+    "version": "5.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -11,10 +11,19 @@
         "Themes"
     ],
     "keywords": [
-        "theme",
+        "vscode theme",
+        "cursor theme",
         "color theme",
-        "dark",
         "dark theme",
+        "light theme",
+        "midnight",
+        "daylight",
+        "neon",
+        "synthwave",
+        "teal",
+        "aqua",
+        "lavender",
+        "monochrome",
         "argpro",
         "argprocolor",
         "AnkurGoyal"
